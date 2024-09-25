@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CyXmlSerializer>
+<!--This file is machine generated and read. It is not intended to be edited by hand.-->
+<!--Due to this, there is no schema for this file.-->
+<CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21 type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspcCustomData" version="4">
+<CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997 type_name="CyDesigner.Common.Base.CyCustomData" version="2">
+<userData>
+<dataGuid v="1b906a0f-a7b6-4e4d-a428-82f98b53cb35">
+<CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35 type_name="CyDesigner.Common.ProjMgmt.GUI.CyExplorerWindow+CyExplorerWindowState" version="3" SelectedTab="Source">
+<TreeKeys>
+<v>Source</v>
+<v>Components</v>
+<v>Output</v>
+</TreeKeys>
+<TreeStates>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\TopDesign</v>
+<v>Button\Button\Button.cydwr</v>
+<v>Button\Button\Button.cydwr\Pins</v>
+<v>Button\Button\Button.cydwr\Analog</v>
+<v>Button\Button\Button.cydwr\Clocks</v>
+<v>Button\Button\Button.cydwr\Interrupts</v>
+<v>Button\Button\Button.cydwr\System</v>
+<v>Button\Button\Button.cydwr\Directives</v>
+<v>Button\Button\Button.cydwr\Flash Security</v>
+<v>Button\Button\Header Files</v>
+<v>Button\Button\Header Files\cyapicallbacks.h</v>
+<v>Button\Button\Source Files</v>
+<v>Button\Button\Source Files\main.c</v>
+<v>Button\Button\Generated_Source</v>
+<v>Button\Button\Generated_Source\PSoC4</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\TopDesign</v>
+<v>Button\Button\Button.cydwr</v>
+<v>Button\Button\Button.cydwr\Pins</v>
+<v>Button\Button\Button.cydwr\Analog</v>
+<v>Button\Button\Button.cydwr\Clocks</v>
+<v>Button\Button\Button.cydwr\Interrupts</v>
+<v>Button\Button\Button.cydwr\System</v>
+<v>Button\Button\Button.cydwr\Directives</v>
+<v>Button\Button\Button.cydwr\Flash Security</v>
+<v>Button\Button\Header Files</v>
+<v>Button\Button\Header Files\cyapicallbacks.h</v>
+<v>Button\Button\Source Files</v>
+<v>Button\Button\Source Files\main.c</v>
+<v>Button\Button\Generated_Source</v>
+<v>Button\Button\Generated_Source\PSoC4</v>
+<v>Button\Button\Generated_Source\PSoC4\CapSense_1</v>
+<v>Button\Button\Generated_Source\PSoC4\CapSense_1_ISR</v>
+<v>Button\Button\Generated_Source\PSoC4\cy_boot</v>
+<v>Button\Button\Generated_Source\PSoC4\cy_dmac</v>
+<v>Button\Button\Generated_Source\PSoC4\cy_lfclk</v>
+<v>Button\Button\Generated_Source\PSoC4\Em_EEPROM_Dynamic</v>
+<v>Button\Button\Generated_Source\PSoC4\Pin_1</v>
+<v>Button\Button\Generated_Source\PSoC4\UART_1</v>
+<v>Button\Button\Generated_Source\PSoC4\UART_1_SCBCLK</v>
+<v>Button\Button\Generated_Source\PSoC4\UART_1_tx</v>
+<v>Button\Button\Generated_Source\PSoC4\cycodeshareexport.ld</v>
+<v>Button\Button\Generated_Source\PSoC4\cycodeshareimport.ld</v>
+<v>Button\Button\Generated_Source\PSoC4\cycodeshareimport.scat</v>
+<v>Button\Button\Generated_Source\PSoC4\cydevice_trm.h</v>
+<v>Button\Button\Generated_Source\PSoC4\cydevicegnu_trm.inc</v>
+<v>Button\Button\Generated_Source\PSoC4\cydeviceiar_trm.inc</v>
+<v>Button\Button\Generated_Source\PSoC4\cydevicerv_trm.inc</v>
+<v>Button\Button\Generated_Source\PSoC4\cydisabledsheets.h</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="Button\Button\TopDesign\TopDesign.cysym">
+<ExpandedNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\TopDesign</v>
+<v>Button\Button\TopDesign\TopDesign.cysch</v>
+<v>Button\Button\TopDesign\TopDesign.cysym</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\TopDesign</v>
+<v>Button\Button\TopDesign\TopDesign.cysch</v>
+<v>Button\Button\TopDesign\TopDesign.cysym</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\CortexM0p</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Control.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Filter.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_INT.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_ISR.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Processing.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Sensing.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_SensingCSD_LL.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Structure.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CapSense_1_Tuner.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\Cm0plusStart.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\cy_em_eeprom.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyBootAsmGnu.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyDMA.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyfitter_cfg.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyFlash.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLFClk.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\CyLib.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\cymetadata.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyPm.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\cyutils.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\main.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\Pin_1.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\Pin_1_PM.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_BOOT.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_PM.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SCBCLK.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_SPI_UART_INT.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_tx_PM.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Listing Files\UART_1_UART_BOOT.lst</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Button.elf</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Button.hex</v>
+<v>Button\Button\CortexM0p\ARM_GCC_541\Debug\Button.map</v>
+<v>Button\Button\Button.gpdsc</v>
+<v>Button\Button\Button.rpt</v>
+<v>Button\Button\Button_timing.html</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStates>
+<TreeKeysV2>
+<v>Datasheet</v>
+</TreeKeysV2>
+<TreeStatesV2>
+<CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237 type_name="CyDesigner.Common.Base.Controls.CyTreeViewState" version="1" SelectedNodeId="">
+<ExpandedNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\PSoC 4 Architecture TRM</v>
+<v>Button\Button\System Reference Guides</v>
+<v>Button\Button\System Reference Guides\cy_boot_v6_0</v>
+<v>Button\Button\System Reference Guides\cy_dmac_v1_10</v>
+<v>Button\Button\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Button\Button\CapSense_P4_v7_0.pdf</v>
+<v>Button\Button\cy_pins_v2_20.pdf</v>
+<v>Button\Button\SCB_P4_v4_0.pdf</v>
+</ExpandedNodeIds>
+<VisibleNodeIds>
+<v>Button</v>
+<v>Button\Button</v>
+<v>Button\Button\PSoC 4 Architecture TRM</v>
+<v>Button\Button\System Reference Guides</v>
+<v>Button\Button\System Reference Guides\cy_boot_v6_0</v>
+<v>Button\Button\System Reference Guides\cy_dmac_v1_10</v>
+<v>Button\Button\System Reference Guides\cy_lfclk_v1_20</v>
+<v>Button\Button\CapSense_P4_v7_0.pdf</v>
+<v>Button\Button\cy_pins_v2_20.pdf</v>
+<v>Button\Button\SCB_P4_v4_0.pdf</v>
+</VisibleNodeIds>
+</CyGuid_2a325b3b-c96a-4e9f-b7a0-2c44ecb5f237>
+</TreeStatesV2>
+</CyGuid_1b906a0f-a7b6-4e4d-a428-82f98b53cb35>
+</dataGuid>
+</userData>
+</CyGuid_fdba8dfd-b15b-4469-9bbb-9e40c3e70997>
+<Unloaded />
+<OpenDocs>
+<name v=".\Button.cydsn\TopDesign\TopDesign.cysch" />
+<name v=".\Button.cydsn\Button.cydwr" />
+<name v=".\Button.cydsn\main.c" />
+<name v=".\Button.cydsn\TopDesign\TopDesign.cysym" />
+<name v=".\Button.cydsn\cyapicallbacks.h" />
+<name v=".\Button.cydsn\Generated_Source\PSoC4\project.h" />
+</OpenDocs>
+<OpenDocsLayout><![CDATA[<?xml version="1.0"?><!--
+
+  Actipro Docking/MDI for WinForms
+  Copyright (c) 2001-2016 Actipro Software LLC.  All rights reserved.
+  http://www.actiprosoftware.com
+
+--><DocumentLayout Version="1.0"><LayoutData><TabbedMdiRootContainer Orientation="Horizontal"><TabbedMdiContainer Size="1121, 487" SelectedTabbedMdiWindow="a59e9b93-4fd1-464e-a935-79cd4c02776b"><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\TopDesign\TopDesign.cysch" Guid="d0343834-5ed2-41a9-8439-1faed547def6" /><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\Button.cydwr" Guid="d92db556-1bdd-42d2-8168-7c6aaa6b6056" /><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\main.c" Guid="a59e9b93-4fd1-464e-a935-79cd4c02776b" /><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\TopDesign\TopDesign.cysym" Guid="1bbb774c-9de2-477c-8008-b152ec1193c5" /><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\cyapicallbacks.h" Guid="7cde62ec-418c-4d1e-aa32-039c4a41aa78" /><DocumentWindow Key="C:\Users\subik\OneDrive\Documents\PSoC Creator\Button\Button.cydsn\Generated_Source\PSoC4\project.h" Guid="0aab5ac2-4527-4ced-8df8-1cbe33c47af0" /><ToolWindow Key="Start Page:bd4649ab-da6b-4d04-a663-c722b8bf99db:Start Page" Guid="e634acef-3de0-4a76-b5db-766faaeb6fea" /></TabbedMdiContainer></TabbedMdiRootContainer><FloatingContainers /></LayoutData></DocumentLayout>]]></OpenDocsLayout>
+<config v="" />
+<AutoUpdate v="true" />
+</CyGuid_843a90a4-0c4b-4e44-991d-05e7fb117a21>
+</CyXmlSerializer>
